@@ -1,1 +1,1 @@
-
+This file contains the code for a hangman game. My high school's Girls Who Code club, which I am the co-president of, used this code for a coding workshop. Our officer team wrote and explained the code in real time as members coded along with us on their own computers. At the end of the workshop, several members let us know that the workshop had been a great introduction to the basics of Python.
